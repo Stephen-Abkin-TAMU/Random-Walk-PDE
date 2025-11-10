@@ -10,15 +10,6 @@ The project demonstrates how random walk approaches can replicate diffusion and 
   - Configurable parameters: domain type, boundary conditions, diffusivity, time step, total time, number of points
   - Generates plots of simulation results, saved automatically in the `output/` folder
 
-  ## Project Structure
-   - main.py # Entry point, handles CLI
-   - config.py # Simulation configuration and initial conditions
-   - simulation.py # Core simulation logic
-   - utils.py # Plotting and helper functions
-   - requirements.txt # Dependencies
-   - output/ # Auto-saved plots
-
-
   ## Applications
   - Heat flow and diffusion modeling
   - Nerve signal propagation
